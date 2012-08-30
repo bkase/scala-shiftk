@@ -1,6 +1,3 @@
-### Script installation
-Move `scala_doc` into your 
-
 # Scala Shift-K
 A better Shift-K for vim for `.scala` source code
 
